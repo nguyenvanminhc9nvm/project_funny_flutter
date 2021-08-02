@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>835432012985-0tbrgk563ss3g7craj2e3pilagk99dsk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.835432012985-0tbrgk563ss3g7craj2e3pilagk99dsk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8so3jrX2wPYeW_45kg6UkG7Rr66zD4HE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>835432012985</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.minhlostudio.projectFunnyFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>funny-app-82836</string>
+	<key>STORAGE_BUCKET</key>
+	<string>funny-app-82836.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:835432012985:ios:5c6bb26d68ae971e934f68</string>
+</dict>
+</plist>

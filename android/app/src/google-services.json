@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835432012985",
+    "project_id": "funny-app-82836",
+    "storage_bucket": "funny-app-82836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835432012985:android:b91391ba8069f34d934f68",
+        "android_client_info": {
+          "package_name": "com.minhlostudio.project_funny_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835432012985-36ono3h5tf0c6ac23n3944fubsrs7h1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQN93-0QaAZn-5zFhyby9coDq_BnaPAjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835432012985-36ono3h5tf0c6ac23n3944fubsrs7h1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
